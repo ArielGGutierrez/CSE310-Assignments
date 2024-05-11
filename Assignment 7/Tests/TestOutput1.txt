@@ -1,0 +1,19 @@
+Enter source city name: 
+
+Print the graph before Dijkstra algorithm
+
+Heap size = 3
+
+City Name      d Value     PI             Arrival City List
+Chicago        30000.00    No Parent      New York(611.20),
+New York       30000.00    No Parent      Arrival city list is empty
+Los Angeles    30000.00    No Parent      Chicago(2015.40),New York(2789.42),
+
+Print the Dijkstra algorithm running result
+
+Source City: Los Angeles
+
+Arrival City  Shortest Dist. Shortest Path  
+Los Angeles    0.00           Los Angeles
+Chicago        2015.40        Los Angeles->Chicago
+New York       2626.60        Los Angeles->Chicago->New York

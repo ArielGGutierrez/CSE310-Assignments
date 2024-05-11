@@ -1,0 +1,14 @@
+12
+Denver,Salt Lake(350.5),Santa Fe(180.24),Dallas(475.62),Chicago(620.78),
+Phoenix,Seattle(470.67),
+Santa Fe,Phoenix(275.32),Austin(572.18),
+Austin,Dallas(350.24),
+Dallas,Austin(250.18),Miami(560.89),Denver(550.6),Atlanta(780.5),
+Atlanta,Washington(420.24),Miami(320.61),Dallas(860.28),
+Chicago,Denver(570.19),
+Washington,New York(250.37),
+Seattle,New York(1320.52),Salt Lake(325.45),
+Salt Lake,Phoenix(450.18),Santa Fe(379.2),
+New York,Chicago(320.5),
+Miami,Atlanta(457.6),
+Seattle

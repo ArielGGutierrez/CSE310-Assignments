@@ -1,0 +1,29 @@
+Enter source city name: 
+
+Print the graph before Dijkstra algorithm
+
+Heap size = 8
+
+City Name      d Value     PI             Arrival City List
+Buffalo        30000.00    No Parent      Albany(293.76),Columbus(3025.19),Washington(401.54),
+Albany         30000.00    No Parent      Boston(364.72),
+Boston         30000.00    No Parent      New York(214.50),
+New York       30000.00    No Parent      Washington(225.70),
+Columbus       30000.00    No Parent      Seattle(2418.50),Washington(402.80),
+San Diego      30000.00    No Parent      Columbus(2224.30),
+Seattle        30000.00    No Parent      Buffalo(2599.00),Columbus(2420.30),San Diego(1255.34),
+Washington     30000.00    No Parent      New York(225.70),San Diego(2625.30),
+
+Print the Dijkstra algorithm running result
+
+Source City: Seattle
+
+Arrival City  Shortest Dist. Shortest Path  
+Seattle        0.00           Seattle
+San Diego      1255.34        Seattle->San Diego
+Columbus       2420.30        Seattle->Columbus
+Buffalo        2599.00        Seattle->Buffalo
+Washington     2823.10        Seattle->Columbus->Washington
+Albany         2892.76        Seattle->Buffalo->Albany
+New York       3048.80        Seattle->Columbus->Washington->New York
+Boston         3257.48        Seattle->Buffalo->Albany->Boston

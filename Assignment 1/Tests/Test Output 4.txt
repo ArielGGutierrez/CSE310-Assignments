@@ -1,0 +1,237 @@
+Choice		Action
+------		------
+A		Add A Student
+C		Change A Student Name
+D		Display All Students
+E		Display Students by Last Name
+F		Find A Student
+P		Update Student GPA
+R		Remove Student by ID
+S		Remove Student by Name
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "Linda Smith" is added
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "John Miller" is added
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "Richard Brown" is added
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "John Miller" is added
+
+What action would you like to perform?
+Richard     Brown           2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Linda       Smith           3416      3.47
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "Robert Smith" is added
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "Mary Smith" is added
+
+What action would you like to perform?
+Richard     Brown           2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+
+Please enter student last name which you want to display:
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+
+Please enter the student id you want to update the gpa:
+Student with ID #: 2378 does NOT exist
+
+What action would you like to perform?
+Richard     Brown           2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+
+Please enter the student id you want to update the gpa:
+Student with ID #: 5432 does NOT exist
+
+What action would you like to perform?
+Please enter the student ID which you want to change the name:
+
+Please enter student new full name: 
+Student is NOT inside the list, cannot change student name.
+
+Student ID #: 2378 does not exist
+
+What action would you like to perform?
+Richard     Brown           2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+Please enter the student ID which you want to change the name:
+
+Please enter student new full name: 
+Student is NOT inside the list, cannot change student name.
+
+Student ID #: 2164 does not exist
+
+What action would you like to perform?
+Please enter the student ID which you want to change the name:
+
+Please enter student new full name: 
+Student ID #: 2163 name was changed
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "Kelly Smith" is added
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Kelly       Smith           4531      3.67
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+
+Please enter student last name which you want to display:
+Kelly       Smith           4531      3.67
+Linda       Smith           3416      3.47
+Mary        Smith           1234      3.35
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+Please enter student first name you want to remove:
+Please enter student last name you want to remove:
+
+Student with name: Mary Smith was removed
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Kelly       Smith           4531      3.67
+Linda       Smith           3416      3.47
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+
+Please enter student last name which you want to display:
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+
+What action would you like to perform?
+
+Please enter the student ID to remove:
+
+Student with ID #: 3416 was removed
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+John        Miller          2173      3.62
+John        Miller          7216      3.37
+Kelly       Smith           4531      3.67
+Robert      Smith           4217      3.61
+
+What action would you like to perform?
+Please enter the student information:
+Enter student first name:
+Enter student last name:
+Enter student id:
+Enter student gpa:
+Student "James Wilson" is added
+
+What action would you like to perform?
+Please enter student first name you want to remove:
+Please enter student last name you want to remove:
+
+Student with name: John Miller was removed
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+Kelly       Smith           4531      3.67
+Robert      Smith           4217      3.61
+James       Wilson          2378      3.67
+
+What action would you like to perform?
+Please enter student first name you want to remove:
+Please enter student last name you want to remove:
+
+Student with name: Robert Smith was removed
+
+What action would you like to perform?
+Richard     Fong            2163      3.71
+Kelly       Smith           4531      3.67
+James       Wilson          2378      3.67
+
+What action would you like to perform?
+Please enter student first name you want to remove:
+Please enter student last name you want to remove:
+No such student name found.
+
+Student with name: Mary Fong does NOT exist
+
+What action would you like to perform?
+The number of deleted student is: 3

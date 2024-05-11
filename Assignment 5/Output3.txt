@@ -1,0 +1,165 @@
+Enter the size of the hash table: 
+Enter number of commands: 
+The ideal load factor is: 4.00
+My hash table real load factor is: 7.00
+My hash table performance ratio is: 1.75
+
+HashTable[0], size = 4
+Desiree     Robinson      541979      2.00
+Ziao        Richards      106870      3.00
+John        Ngo           379752      2.00
+Walter      Brown         123456      3.00
+
+HashTable[1], size = 3
+Qian        Shaffer       625921      3.00
+Zheyuan     Huang         985851      3.00
+Zezhao      Cloud         213497      3.00
+
+HashTable[2], size = 5
+Kori        Nipanikar     210785      3.00
+Zachary     Kobza         482933      3.00
+Carlos      Godinez       983174      2.00
+Tamara      Garrido       579614      3.00
+Erik        Dykstra       195034      3.00
+
+HashTable[3], size = 1
+Joshua      Gold          487928      3.00
+
+HashTable[4], size = 6
+Kaiyi       Radloff       324488      3.00
+Philip      Orchard       765358      2.00
+Aidan       Morgan        471444      3.00
+Ryanne      Mccord        291001      3.00
+David       Malek         148561      3.00
+Tyler       Lent          964153      2.00
+
+HashTable[5], size = 7
+Jadyn       Montes        437840      2.00
+Anton       Phelps        423420      2.00
+Michael     Ornelas       598412      3.00
+Patrick     Mouelhi       539964      2.00
+Marques     Moore         606667      3.00
+Miguel      Medina        741868      3.00
+Dirk        Gajanovic     120986      3.00
+
+HashTable[6], size = 7
+Dana        Millman       505982      2.00
+Morgan      Miles         285618      2.00
+Ryan        Masayesva     756283      2.00
+Aron        Liu           754880      2.00
+Joseph      Leo           404555      3.00
+Kyle        Drager        959148      3.00
+Yugui       Chen          922544      2.00
+
+HashTable[7], size = 2
+Kyle        Nordstrom     497441      2.00
+Kathryn     Chau          833517      3.00
+
+HashTable[8], size = 5
+Manlin      Roekman       605562      3.00
+Jiawen      Hu            128608      2.00
+Rachel      Hoeck         994509      2.00
+Chris       Harsh         986163      3.00
+Andy        Chen          536674      3.00
+
+HashTable[9], size = 6
+Diego       Roberts       356533      2.00
+Taylor      Ottney        503928      2.00
+Kenneth     Oliva         535571      3.00
+Jose        Martinez      485642      3.00
+Tristan     Lopez         900506      2.00
+Miranda     Hatley        756583      3.00
+
+HashTable[10], size = 4
+Favio       Palermo       238312      2.00
+Dhruv       Navarrete     388944      2.00
+Destinee    Martin        236517      2.00
+Earl        Chamber       658524      2.00
+
+Marques     Moore       606667   is found inside the hash table.
+
+Walter      Brown       123456   is found inside the hash table.
+
+Qiang       Shaffer     625922   is NOT found inside the hash table.
+
+Sherry      Feng        123456   is NOT found inside the hash table.
+
+Jadyn       Montes      437840   is deleted from hash table.
+
+Kathryn     Chau        833517   is deleted from hash table.
+
+Anton       Phelps      423420   is deleted from hash table.
+
+Yugui       Chen        922544   is deleted from hash table.
+
+The ideal load factor is: 4.00
+My hash table real load factor is: 6.00
+My hash table performance ratio is: 1.50
+
+HashTable[0], size = 4
+Desiree     Robinson      541979      2.00
+Ziao        Richards      106870      3.00
+John        Ngo           379752      2.00
+Walter      Brown         123456      3.00
+
+HashTable[1], size = 3
+Qian        Shaffer       625921      3.00
+Zheyuan     Huang         985851      3.00
+Zezhao      Cloud         213497      3.00
+
+HashTable[2], size = 5
+Kori        Nipanikar     210785      3.00
+Zachary     Kobza         482933      3.00
+Carlos      Godinez       983174      2.00
+Tamara      Garrido       579614      3.00
+Erik        Dykstra       195034      3.00
+
+HashTable[3], size = 1
+Joshua      Gold          487928      3.00
+
+HashTable[4], size = 6
+Kaiyi       Radloff       324488      3.00
+Philip      Orchard       765358      2.00
+Aidan       Morgan        471444      3.00
+Ryanne      Mccord        291001      3.00
+David       Malek         148561      3.00
+Tyler       Lent          964153      2.00
+
+HashTable[5], size = 5
+Michael     Ornelas       598412      3.00
+Patrick     Mouelhi       539964      2.00
+Marques     Moore         606667      3.00
+Miguel      Medina        741868      3.00
+Dirk        Gajanovic     120986      3.00
+
+HashTable[6], size = 6
+Dana        Millman       505982      2.00
+Morgan      Miles         285618      2.00
+Ryan        Masayesva     756283      2.00
+Aron        Liu           754880      2.00
+Joseph      Leo           404555      3.00
+Kyle        Drager        959148      3.00
+
+HashTable[7], size = 1
+Kyle        Nordstrom     497441      2.00
+
+HashTable[8], size = 5
+Manlin      Roekman       605562      3.00
+Jiawen      Hu            128608      2.00
+Rachel      Hoeck         994509      2.00
+Chris       Harsh         986163      3.00
+Andy        Chen          536674      3.00
+
+HashTable[9], size = 6
+Diego       Roberts       356533      2.00
+Taylor      Ottney        503928      2.00
+Kenneth     Oliva         535571      3.00
+Jose        Martinez      485642      3.00
+Tristan     Lopez         900506      2.00
+Miranda     Hatley        756583      3.00
+
+HashTable[10], size = 4
+Favio       Palermo       238312      2.00
+Dhruv       Navarrete     388944      2.00
+Destinee    Martin        236517      2.00
+Earl        Chamber       658524      2.00

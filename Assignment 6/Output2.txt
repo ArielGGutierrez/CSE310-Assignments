@@ -1,0 +1,77 @@
+
+Command: tree_insert
+356533  Diego       Roberts     2.10      
+
+Command: tree_insert
+471444  Aidan       Morgan      3.14      
+
+Command: tree_insert
+123456  Walter      Brown       3.66      
+
+Command: tree_insert
+291001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+579614  Tamara      Garrido     3.94      
+
+Command: tree_insert
+891001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+754880  Aron        Liu         3.48      
+
+Command: tree_insert
+625921  Qian        Shaffer     3.56      
+
+Command: tree_preorder
+356533  Diego       Roberts     2.10        BLACK
+123456  Walter      Brown       3.66        BLACK
+291001  Ryanne      Mccord      3.55          RED
+579614  Tamara      Garrido     3.94          RED
+471444  Aidan       Morgan      3.14        BLACK
+754880  Aron        Liu         3.48        BLACK
+625921  Qian        Shaffer     3.56          RED
+891001  Ryanne      Mccord      3.55          RED
+
+Command: tree_inorder
+123456  Walter      Brown       3.66        BLACK
+291001  Ryanne      Mccord      3.55          RED
+356533  Diego       Roberts     2.10        BLACK
+471444  Aidan       Morgan      3.14        BLACK
+579614  Tamara      Garrido     3.94          RED
+625921  Qian        Shaffer     3.56          RED
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55          RED
+
+Command: tree_postorder
+291001  Ryanne      Mccord      3.55          RED
+123456  Walter      Brown       3.66        BLACK
+471444  Aidan       Morgan      3.14        BLACK
+625921  Qian        Shaffer     3.56          RED
+891001  Ryanne      Mccord      3.55          RED
+754880  Aron        Liu         3.48        BLACK
+579614  Tamara      Garrido     3.94          RED
+356533  Diego       Roberts     2.10        BLACK
+
+Command: tree_minimum
+The MINIMUM is:
+123456  Walter      Brown       3.66        BLACK
+
+Command: tree_maximum
+The MAXIMUM is:
+891001  Ryanne      Mccord      3.55          RED
+
+Command: tree_search
+356533  Diego       Roberts      is FOUND.
+
+Command: tree_search
+471444  Sherry      Morgan       is NOT FOUND.
+
+Command: tree_search
+123456  Walter      Brown        is FOUND.
+
+Command: tree_search
+579614  Tamara      Smith        is NOT FOUND.
+
+Command: quit
+The number of nodes deleted: 8

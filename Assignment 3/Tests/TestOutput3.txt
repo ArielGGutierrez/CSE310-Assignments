@@ -1,0 +1,315 @@
+Choice		Action
+------		------
+C		Create a heap
+D		Delete the heap
+E		Extract max node
+F		Find a student by ID
+I		Insert a student
+K		Increase the ID
+M		Get the max node
+P		Print the heap
+S		Heap Sort
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the heap capacity: 
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "John Smith" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Mary JohnSon" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Joe Dow" is added
+
+What action would you like to perform?
+
+Heap capacity = 5
+
+Heap size = 3
+
+13000   Mary        JohnSon     3.72    
+5000    John        Smith       3.56    
+2000    Joe         Dow         3.47    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "James Zhang" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "James Zhang" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Mary Smith" is added
+
+What action would you like to perform?
+
+Heap capacity = 5
+
+Heap size = 5
+
+25000   James       Zhang       3.89    
+13000   Mary        JohnSon     3.72    
+2000    Joe         Dow         3.47    
+5000    John        Smith       3.56    
+7000    Mary        Smith       3.21    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Reach the capacity limit, double the capacity now.
+
+The new capacity now is 10
+
+Student "Richard Brown" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 6
+
+25000   James       Zhang       3.89    
+13000   Mary        JohnSon     3.72    
+17000   Richard     Brown       3.23    
+5000    John        Smith       3.56    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "John Miller" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Linda Smith" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Robert Smith" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 9
+
+25000   James       Zhang       3.89    
+13000   Mary        JohnSon     3.72    
+20000   John        Miller      3.44    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+17000   Richard     Brown       3.23    
+5000    John        Smith       3.56    
+4000    Robert      Smith       3.31    
+
+What action would you like to perform?
+Choice		Action
+------		------
+C		Create a heap
+D		Delete the heap
+E		Extract max node
+F		Find a student by ID
+I		Insert a student
+K		Increase the ID
+M		Get the max node
+P		Print the heap
+S		Heap Sort
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+The maximum heap node is:
+25000   James       Zhang       3.89    
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 7000 is found
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 11000 is NOT found
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 4000 is found
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 9
+
+25000   James       Zhang       3.89    
+13000   Mary        JohnSon     3.72    
+20000   John        Miller      3.44    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+17000   Richard     Brown       3.23    
+5000    John        Smith       3.56    
+4000    Robert      Smith       3.31    
+
+After extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 8
+
+20000   John        Miller      3.44    
+13000   Mary        JohnSon     3.72    
+17000   Richard     Brown       3.23    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+5000    John        Smith       3.56    
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 8
+
+20000   John        Miller      3.44    
+13000   Mary        JohnSon     3.72    
+17000   Richard     Brown       3.23    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+5000    John        Smith       3.56    
+
+After extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 7
+
+17000   Richard     Brown       3.23    
+13000   Mary        JohnSon     3.72    
+5000    John        Smith       3.56    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The new ID you entered already exist, increase ID operation failed
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The old ID you try to increase does not exist
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 10
+
+Heap size = 7
+
+17000   Richard     Brown       3.23    
+13000   Mary        JohnSon     3.72    
+5000    John        Smith       3.56    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+
+Student with old id: 5000 is increased to new id: 19000
+
+After increase id operation: 
+
+Heap capacity = 10
+
+Heap size = 7
+
+19000   John        Smith       3.56    
+13000   Mary        JohnSon     3.72    
+17000   Richard     Brown       3.23    
+8000    Linda       Smith       3.12    
+7000    Mary        Smith       3.21    
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+
+What action would you like to perform?
+
+Heap sort. Students will be sorted in increasing order of their IDs
+2000    Joe         Dow         3.47    
+4000    Robert      Smith       3.31    
+7000    Mary        Smith       3.21    
+8000    Linda       Smith       3.12    
+13000   Mary        JohnSon     3.72    
+17000   Richard     Brown       3.23    
+19000   John        Smith       3.56    
+
+What action would you like to perform?
+
+The number of deleted Students is: 0

@@ -1,0 +1,311 @@
+Enter the size of the hash table: 
+The ideal load factor is: 6.00
+My hash table real load factor is: 12.00
+My hash table performance ratio is: 2.00
+
+HashTable[0], size = 8
+John        Torres        199159      3.00
+Xin         Rawls         919242      1.00
+Connor      Guiang        115504      3.00
+Tyler       Gallegos      741223      1.00
+Jonathan    Castro        426282      1.00
+Colton      Briseno       746565      2.00
+James       Liu           342833      3.00
+Lionel      Cunningham    929966      3.00
+
+HashTable[1], size = 8
+Hara        Zarate        553176      2.00
+Joseph      Tuznik        870197      2.00
+Kyle        Reynolds      275145      3.00
+Nicole      Mallory       572064      2.00
+Karen       Dorsch        856842      3.00
+Zachary     Rosen         919647      1.00
+Stephen     Lopez         577252      2.00
+Shantanu    Bradshaw      865677      2.00
+
+HashTable[2], size = 6
+Samuel      Harris        455843      2.00
+Ethan       Gebrekristos  502476      2.00
+Douglas     Garcia        327663      2.00
+Milan       Galvan        386073      3.00
+Orlando     Pagel         144046      3.00
+Kevin       Chapman       870322      3.00
+
+HashTable[3], size = 8
+Karen       Zinke         749254      3.00
+Alexander   Vaillancourt  681708      1.00
+Yvonne      Sholola       233246      1.00
+Jiahao      Porter        210963      1.00
+Sabrina     Martin        852603      3.00
+Shawn       Kumar         690819      2.00
+Joel        Avalos        788541      2.00
+Burlon      Baker         136796      1.00
+
+HashTable[4], size = 5
+Bishnu      Shen          355860      2.00
+Richard     Lopez         976558      3.00
+Douglas     Kovatcheva    345033      2.00
+Cody        Felix         340832      3.00
+Tony        Lawson        804037      2.00
+
+HashTable[5], size = 4
+Jessie      Stanton       767351      1.00
+Rachel      Shim          464776      2.00
+Jacob       Hossain       507248      1.00
+Matthew     Ahmad         332449      3.00
+
+HashTable[6], size = 7
+Dylan       Zhang         154998      2.00
+Griffin     Patel         263027      3.00
+Tina        Jones         210546      2.00
+Qihong      Jenson        843555      2.00
+Miguel      Hodges        609569      2.00
+Peyton      Merchant      559235      3.00
+Easa        Harris        127976      1.00
+
+HashTable[7], size = 12
+Marco       Wiebel        884417      3.00
+Tariq       Sherer        968461      2.00
+Ahmed       Robison       926993      1.00
+Oluwarotimi Kasten        920877      3.00
+Kevin       Joshi         331030      3.00
+Dylan       Dickson       542865      2.00
+Jeremy      Datu          826551      2.00
+Matthew     Mints         130702      1.00
+Tyler       McChesney     739155      3.00
+Elizabeth   Matteson      280929      2.00
+Ahbiya      Hoskins       427517      3.00
+Richard     Chang         547872      2.00
+
+HashTable[8], size = 8
+Alexander   Wu            549523      1.00
+Lama        Rozi          866132      2.00
+Michael     Ratliff       512135      3.00
+Simona      Chen          674933      3.00
+Shihuan     Basnet        841374      2.00
+Jeffrey     Reeves        788175      1.00
+John        Monshaw       268098      3.00
+Christian   Jampani       760800      1.00
+
+HashTable[9], size = 6
+Jeremy      Yagoub        751974      3.00
+Yikai       Skinner       702027      3.00
+Nicholas    Kuester       695357      2.00
+Rayan       Henriksen     734475      2.00
+Hara        Devillebichot  981669      2.00
+Todd        Ejaz          355888      2.00
+
+HashTable[10], size = 3
+Aaron       Amazan        248032      2.00
+Yan         Lockhart      486642      2.00
+Patrick     Howe          208739      2.00
+
+HashTable[11], size = 8
+Luis        Vitan         105455      3.00
+Tareq       Shawky        100190      2.00
+Fernando    Shaeffer      788867      3.00
+Gustavo     Garcia        844218      1.00
+Daniel      Azzouni       878889      3.00
+Nicholas    Rogers        615838      2.00
+Tyler       Richmond      586859      3.00
+Alexander   Moreno        708876      3.00
+
+HashTable[12], size = 9
+Jacques     Vargas        891307      1.00
+Saul        Situ          673399      3.00
+John        Morrow        882984      1.00
+Stephen     Hollenbeck    236623      3.00
+Alexander   Hanna         339897      1.00
+Ethan       Bayounis      574496      3.00
+Dushyant    Armey         149954      1.00
+Tiffany     Pottorff      225354      3.00
+Michael     Crafts        111953      2.00
+
+HashTable[13], size = 6
+Peter       Storey        846533      2.00
+Hadya       Jacobs        567111      1.00
+Nathaniel   Ernotte       394380      2.00
+Ryan        Miller        169426      3.00
+Fariha      Elsirgany     745565      2.00
+Aaron       Bala          703599      2.00
+
+HashTable[14], size = 2
+Gareth      Ortiz         640041      3.00
+Lincoln     Beard         787749      3.00
+
+HashTable[15], size = 5
+Adin        Shackelford   659102      3.00
+Gilberto    Lester        347098      1.00
+Jia Liang   King          269176      1.00
+Ronald      Dragotoniu    686685      1.00
+Rizwan      Anderson      229130      2.00
+
+HashTable[16], size = 5
+Ruben       Whitehead     506155      3.00
+Armaan      Sesate        659178      2.00
+Mohammad    Ramirez       555762      3.00
+Girish      Keopasth      935467      2.00
+Daniel      Ivanenok      944084      3.00
+
+Matthew     Ahmad       332449   is found inside the hash table.
+
+Burlon      Baker       136796   is found inside the hash table.
+
+Qiang       Shaffer     625922   is NOT found inside the hash table.
+
+Sherry      Feng        123456   is NOT found inside the hash table.
+
+Matthew     Ahmad       332449   is deleted from hash table.
+
+Kathryn     Chau        833517   is NOT deleted from hash table.
+
+Burlon      Baker       136796   is deleted from hash table.
+
+Hara        Zarate      553176   is deleted from hash table.
+
+Dylan       Zhang       154998   is deleted from hash table.
+
+Tina        Jones       210546   is deleted from hash table.
+
+The ideal load factor is: 6.00
+My hash table real load factor is: 12.00
+My hash table performance ratio is: 2.00
+
+HashTable[0], size = 8
+John        Torres        199159      3.00
+Xin         Rawls         919242      1.00
+Connor      Guiang        115504      3.00
+Tyler       Gallegos      741223      1.00
+Jonathan    Castro        426282      1.00
+Colton      Briseno       746565      2.00
+James       Liu           342833      3.00
+Lionel      Cunningham    929966      3.00
+
+HashTable[1], size = 7
+Joseph      Tuznik        870197      2.00
+Kyle        Reynolds      275145      3.00
+Nicole      Mallory       572064      2.00
+Karen       Dorsch        856842      3.00
+Zachary     Rosen         919647      1.00
+Stephen     Lopez         577252      2.00
+Shantanu    Bradshaw      865677      2.00
+
+HashTable[2], size = 6
+Samuel      Harris        455843      2.00
+Ethan       Gebrekristos  502476      2.00
+Douglas     Garcia        327663      2.00
+Milan       Galvan        386073      3.00
+Orlando     Pagel         144046      3.00
+Kevin       Chapman       870322      3.00
+
+HashTable[3], size = 7
+Karen       Zinke         749254      3.00
+Alexander   Vaillancourt  681708      1.00
+Yvonne      Sholola       233246      1.00
+Jiahao      Porter        210963      1.00
+Sabrina     Martin        852603      3.00
+Shawn       Kumar         690819      2.00
+Joel        Avalos        788541      2.00
+
+HashTable[4], size = 5
+Bishnu      Shen          355860      2.00
+Richard     Lopez         976558      3.00
+Douglas     Kovatcheva    345033      2.00
+Cody        Felix         340832      3.00
+Tony        Lawson        804037      2.00
+
+HashTable[5], size = 3
+Jessie      Stanton       767351      1.00
+Rachel      Shim          464776      2.00
+Jacob       Hossain       507248      1.00
+
+HashTable[6], size = 5
+Griffin     Patel         263027      3.00
+Qihong      Jenson        843555      2.00
+Miguel      Hodges        609569      2.00
+Peyton      Merchant      559235      3.00
+Easa        Harris        127976      1.00
+
+HashTable[7], size = 12
+Marco       Wiebel        884417      3.00
+Tariq       Sherer        968461      2.00
+Ahmed       Robison       926993      1.00
+Oluwarotimi Kasten        920877      3.00
+Kevin       Joshi         331030      3.00
+Dylan       Dickson       542865      2.00
+Jeremy      Datu          826551      2.00
+Matthew     Mints         130702      1.00
+Tyler       McChesney     739155      3.00
+Elizabeth   Matteson      280929      2.00
+Ahbiya      Hoskins       427517      3.00
+Richard     Chang         547872      2.00
+
+HashTable[8], size = 8
+Alexander   Wu            549523      1.00
+Lama        Rozi          866132      2.00
+Michael     Ratliff       512135      3.00
+Simona      Chen          674933      3.00
+Shihuan     Basnet        841374      2.00
+Jeffrey     Reeves        788175      1.00
+John        Monshaw       268098      3.00
+Christian   Jampani       760800      1.00
+
+HashTable[9], size = 6
+Jeremy      Yagoub        751974      3.00
+Yikai       Skinner       702027      3.00
+Nicholas    Kuester       695357      2.00
+Rayan       Henriksen     734475      2.00
+Hara        Devillebichot  981669      2.00
+Todd        Ejaz          355888      2.00
+
+HashTable[10], size = 3
+Aaron       Amazan        248032      2.00
+Yan         Lockhart      486642      2.00
+Patrick     Howe          208739      2.00
+
+HashTable[11], size = 8
+Luis        Vitan         105455      3.00
+Tareq       Shawky        100190      2.00
+Fernando    Shaeffer      788867      3.00
+Gustavo     Garcia        844218      1.00
+Daniel      Azzouni       878889      3.00
+Nicholas    Rogers        615838      2.00
+Tyler       Richmond      586859      3.00
+Alexander   Moreno        708876      3.00
+
+HashTable[12], size = 9
+Jacques     Vargas        891307      1.00
+Saul        Situ          673399      3.00
+John        Morrow        882984      1.00
+Stephen     Hollenbeck    236623      3.00
+Alexander   Hanna         339897      1.00
+Ethan       Bayounis      574496      3.00
+Dushyant    Armey         149954      1.00
+Tiffany     Pottorff      225354      3.00
+Michael     Crafts        111953      2.00
+
+HashTable[13], size = 6
+Peter       Storey        846533      2.00
+Hadya       Jacobs        567111      1.00
+Nathaniel   Ernotte       394380      2.00
+Ryan        Miller        169426      3.00
+Fariha      Elsirgany     745565      2.00
+Aaron       Bala          703599      2.00
+
+HashTable[14], size = 2
+Gareth      Ortiz         640041      3.00
+Lincoln     Beard         787749      3.00
+
+HashTable[15], size = 5
+Adin        Shackelford   659102      3.00
+Gilberto    Lester        347098      1.00
+Jia Liang   King          269176      1.00
+Ronald      Dragotoniu    686685      1.00
+Rizwan      Anderson      229130      2.00
+
+HashTable[16], size = 5
+Ruben       Whitehead     506155      3.00
+Armaan      Sesate        659178      2.00
+Mohammad    Ramirez       555762      3.00
+Girish      Keopasth      935467      2.00
+Daniel      Ivanenok      944084      3.00

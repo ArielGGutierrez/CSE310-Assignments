@@ -1,0 +1,5 @@
+3
+Chicago,New York(611.20),
+New York,,
+Los Angeles,New York(2789.42),Chicago(2015.40),
+Los Angeles

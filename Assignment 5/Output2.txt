@@ -1,0 +1,97 @@
+Enter the size of the hash table: 
+Enter number of commands: 
+The ideal load factor is: 3.00
+My hash table real load factor is: 6.00
+My hash table performance ratio is: 2.00
+
+HashTable[0], size = 6
+James       Miller        214665      3.00
+Kyle        Cloud         504999      3.00
+Andy        Chau          113369      3.00
+Joe         Dow           321765      3.00
+James       Smith         321011      3.00
+Linda       Smith         341602      3.00
+
+HashTable[1] is empty, size = 0
+
+HashTable[2], size = 2
+Mary        Smith         123489      3.00
+John        Miller        217332      3.00
+
+HashTable[3], size = 3
+Joshua      Gold          120999      3.00
+Dirk        Garrido       120884      3.00
+James       Wilson        789654      3.00
+
+HashTable[4], size = 5
+Mickey      Mouse         234567      3.00
+Mary        Johnson       126793      3.00
+John        Brown         175432      3.00
+John        Smith         100789      3.00
+Richard     Brown         216345      3.00
+
+HashTable[5], size = 3
+Carlos      Harsh         907960      3.00
+Richard     Fong          134678      3.00
+John        Smith         218976      3.00
+
+HashTable[6], size = 4
+Mickey      Mouse         123011      3.00
+Donald      Duck          654321      3.00
+Snow        White         123456      3.00
+Mickey      Mouse         123011      3.00
+
+Linda       Smith       341602   is found inside the hash table.
+
+James       Miller      214665   is found inside the hash table.
+
+Snow        White       123456   is found inside the hash table.
+
+Sherry      Feng        123456   is NOT found inside the hash table.
+
+Whoever     Lastname    123456   is NOT found inside the hash table.
+
+Linda       Smith       341602   is deleted from hash table.
+
+Snow        White       123456   is deleted from hash table.
+
+Sherry      Feng        123456   is NOT deleted from hash table.
+
+The ideal load factor is: 3.00
+My hash table real load factor is: 5.00
+My hash table performance ratio is: 1.67
+
+HashTable[0], size = 5
+James       Miller        214665      3.00
+Kyle        Cloud         504999      3.00
+Andy        Chau          113369      3.00
+Joe         Dow           321765      3.00
+James       Smith         321011      3.00
+
+HashTable[1] is empty, size = 0
+
+HashTable[2], size = 2
+Mary        Smith         123489      3.00
+John        Miller        217332      3.00
+
+HashTable[3], size = 3
+Joshua      Gold          120999      3.00
+Dirk        Garrido       120884      3.00
+James       Wilson        789654      3.00
+
+HashTable[4], size = 5
+Mickey      Mouse         234567      3.00
+Mary        Johnson       126793      3.00
+John        Brown         175432      3.00
+John        Smith         100789      3.00
+Richard     Brown         216345      3.00
+
+HashTable[5], size = 3
+Carlos      Harsh         907960      3.00
+Richard     Fong          134678      3.00
+John        Smith         218976      3.00
+
+HashTable[6], size = 3
+Mickey      Mouse         123011      3.00
+Donald      Duck          654321      3.00
+Mickey      Mouse         123011      3.00

@@ -1,0 +1,23 @@
+Enter source city name: 
+
+Print the graph before Dijkstra algorithm
+
+Heap size = 5
+
+City Name      d Value     PI             Arrival City List
+Chicago        30000.00    No Parent      Atlanta(189.19),Duluth(502.71),El Paso(151.35),
+Duluth         30000.00    No Parent      El Paso(28.65),
+El Paso        30000.00    No Parent      Duluth(360.21),Phoenix(429.03),
+Atlanta        30000.00    No Parent      Chicago(135.14),Duluth(70.64),
+Phoenix        30000.00    No Parent      Atlanta(570.81),Chicago(303.78),
+
+Print the Dijkstra algorithm running result
+
+Source City: Phoenix
+
+Arrival City  Shortest Dist. Shortest Path  
+Phoenix        0.00           Phoenix
+Chicago        303.78         Phoenix->Chicago
+El Paso        455.13         Phoenix->Chicago->El Paso
+Atlanta        492.97         Phoenix->Chicago->Atlanta
+Duluth         563.61         Phoenix->Chicago->Atlanta->Duluth

@@ -1,0 +1,202 @@
+
+Command: tree_insert
+981669  Hara        Devillebi   2.48      
+
+Command: tree_insert
+754880  Aron        Liu         3.48      
+
+Command: tree_insert
+291001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+471444  Aidan       Morgan      3.14      
+
+Command: tree_insert
+130702  Matthew     Mints       1.98      
+
+Command: tree_insert
+579614  Tamara      Garrido     3.94      
+
+Command: tree_insert
+356533  Diego       Roberts     2.10      
+
+Command: tree_insert
+891001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+123456  Walter      Brown       3.66      
+
+Command: tree_insert
+625921  Qian        Shaffer     3.56      
+
+Command: tree_insert
+332449  Matthew     Ahmad       3.28      
+
+Command: tree_insert
+919647  Zachary     Rosen       1.81      
+
+Command: tree_insert
+210546  Tina        Jones       2.07      
+
+Command: tree_insert
+749254  Karen       Zinke       3.94      
+
+Command: tree_insert
+105455  Luis        Vitan       3.38      
+
+Command: tree_preorder
+471444  Aidan       Morgan      3.14        BLACK
+291001  Ryanne      Mccord      3.55        BLACK
+130702  Matthew     Mints       1.98          RED
+123456  Walter      Brown       3.66        BLACK
+105455  Luis        Vitan       3.38          RED
+210546  Tina        Jones       2.07        BLACK
+356533  Diego       Roberts     2.10        BLACK
+332449  Matthew     Ahmad       3.28          RED
+754880  Aron        Liu         3.48        BLACK
+625921  Qian        Shaffer     3.56        BLACK
+579614  Tamara      Garrido     3.94          RED
+749254  Karen       Zinke       3.94          RED
+919647  Zachary     Rosen       1.81        BLACK
+891001  Ryanne      Mccord      3.55          RED
+981669  Hara        Devillebi   2.48          RED
+
+Command: tree_inorder
+105455  Luis        Vitan       3.38          RED
+123456  Walter      Brown       3.66        BLACK
+130702  Matthew     Mints       1.98          RED
+210546  Tina        Jones       2.07        BLACK
+291001  Ryanne      Mccord      3.55        BLACK
+332449  Matthew     Ahmad       3.28          RED
+356533  Diego       Roberts     2.10        BLACK
+471444  Aidan       Morgan      3.14        BLACK
+579614  Tamara      Garrido     3.94          RED
+625921  Qian        Shaffer     3.56        BLACK
+749254  Karen       Zinke       3.94          RED
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55          RED
+919647  Zachary     Rosen       1.81        BLACK
+981669  Hara        Devillebi   2.48          RED
+
+Command: tree_postorder
+105455  Luis        Vitan       3.38          RED
+123456  Walter      Brown       3.66        BLACK
+210546  Tina        Jones       2.07        BLACK
+130702  Matthew     Mints       1.98          RED
+332449  Matthew     Ahmad       3.28          RED
+356533  Diego       Roberts     2.10        BLACK
+291001  Ryanne      Mccord      3.55        BLACK
+579614  Tamara      Garrido     3.94          RED
+749254  Karen       Zinke       3.94          RED
+625921  Qian        Shaffer     3.56        BLACK
+891001  Ryanne      Mccord      3.55          RED
+981669  Hara        Devillebi   2.48          RED
+919647  Zachary     Rosen       1.81        BLACK
+754880  Aron        Liu         3.48        BLACK
+471444  Aidan       Morgan      3.14        BLACK
+
+Command: tree_predecessor
+105455  Luis        Vitan        is FOUND.
+Its Predecessor does NOT EXIST
+
+Command: tree_predecessor
+981669  Hara        Devillebi    is FOUND.
+Its Predecessor is: 
+919647  Zachary     Rosen       1.81        BLACK
+
+Command: tree_successor
+919647  Zachary     Rosen        is FOUND.
+Its Successor is: 
+981669  Hara        Devillebi   2.48          RED
+
+Command: tree_successor
+981669  Hara        Devillebi    is FOUND.
+Its Successor does NOT EXIST
+
+Command: tree_minimum
+The MINIMUM is:
+105455  Luis        Vitan       3.38          RED
+
+Command: tree_maximum
+The MAXIMUM is:
+981669  Hara        Devillebi   2.48          RED
+
+Command: tree_search
+105455  Luis        Vitan        is FOUND.
+
+Command: tree_search
+891001  Ryanne      Zinke        is NOT FOUND.
+
+Command: tree_search
+981669  Hara        Devillebi    is FOUND.
+
+Command: tree_search
+105455  Luis        Feng         is NOT FOUND.
+
+Command: tree_insert
+269176  Jia Liang   King        1.83      
+
+Command: tree_insert
+609569  Miguel      Hodges      2.51      
+
+Command: tree_insert
+976558  Richard     Lopez       3.05      
+
+Command: tree_insert
+263027  Griffin     Patel       3.23      
+
+Command: tree_insert
+210963  Jiahao      Porter      1.80      
+
+Command: tree_insert
+919242  Xin         Rawls       1.63      
+
+Command: tree_insert
+690819  Shawn       Kumar       2.45      
+
+Command: tree_insert
+919242  Xin         Rawls       1.63      
+
+Command: tree_insert
+355860  Bishnu      Shen        2.27      
+
+Command: tree_insert
+233246  Yvonne      Sholola     1.84      
+
+Command: tree_inorder
+105455  Luis        Vitan       3.38          RED
+123456  Walter      Brown       3.66        BLACK
+130702  Matthew     Mints       1.98          RED
+210546  Tina        Jones       2.07          RED
+210963  Jiahao      Porter      1.80        BLACK
+233246  Yvonne      Sholola     1.84          RED
+263027  Griffin     Patel       3.23        BLACK
+269176  Jia Liang   King        1.83        BLACK
+291001  Ryanne      Mccord      3.55          RED
+332449  Matthew     Ahmad       3.28          RED
+355860  Bishnu      Shen        2.27        BLACK
+356533  Diego       Roberts     2.10          RED
+471444  Aidan       Morgan      3.14        BLACK
+579614  Tamara      Garrido     3.94        BLACK
+609569  Miguel      Hodges      2.51          RED
+625921  Qian        Shaffer     3.56          RED
+690819  Shawn       Kumar       2.45          RED
+749254  Karen       Zinke       3.94        BLACK
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55          RED
+919242  Xin         Rawls       1.63        BLACK
+919242  Xin         Rawls       1.63          RED
+919647  Zachary     Rosen       1.81          RED
+976558  Richard     Lopez       3.05          RED
+981669  Hara        Devillebi   2.48        BLACK
+
+Command: tree_minimum
+The MINIMUM is:
+105455  Luis        Vitan       3.38          RED
+
+Command: tree_maximum
+The MAXIMUM is:
+981669  Hara        Devillebi   2.48        BLACK
+
+Command: quit
+The number of nodes deleted: 25

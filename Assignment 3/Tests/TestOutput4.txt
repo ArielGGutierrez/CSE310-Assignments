@@ -1,0 +1,694 @@
+Choice		Action
+------		------
+C		Create a heap
+D		Delete the heap
+E		Extract max node
+F		Find a student by ID
+I		Insert a student
+K		Increase the ID
+M		Get the max node
+P		Print the heap
+S		Heap Sort
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Empty heap, can NOT extract max
+
+What action would you like to perform?
+
+Please enter the heap capacity: 
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Bob Brown" is added
+
+What action would you like to perform?
+
+Delete the heap
+
+The number of deleted Students is: 1
+
+What action would you like to perform?
+
+Empty heap, no elements
+
+What action would you like to perform?
+Empty heap, can NOT get max node
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Bob Brown" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Emma Boman" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Jack Peterson" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Harry Potter" is added
+
+What action would you like to perform?
+
+Heap capacity = 5
+
+Heap size = 4
+
+12000   Jack        Peterson    3.69    
+9000    Harry       Potter      3.49    
+4000    Emma        Boman       3.79    
+2000    Bob         Brown       2.99    
+
+What action would you like to perform?
+
+The maximum heap node is:
+12000   Jack        Peterson    3.69    
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 12000 is found
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 19000 is NOT found
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The old ID you try to increase does not exist
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Increase ID error: new id is smaller than current id
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 5
+
+Heap size = 4
+
+12000   Jack        Peterson    3.69    
+9000    Harry       Potter      3.49    
+4000    Emma        Boman       3.79    
+2000    Bob         Brown       2.99    
+
+Student with old id: 4000 is increased to new id: 15000
+
+After increase id operation: 
+
+Heap capacity = 5
+
+Heap size = 4
+
+15000   Emma        Boman       3.79    
+9000    Harry       Potter      3.49    
+12000   Jack        Peterson    3.69    
+2000    Bob         Brown       2.99    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 5
+
+Heap size = 4
+
+15000   Emma        Boman       3.79    
+9000    Harry       Potter      3.49    
+12000   Jack        Peterson    3.69    
+2000    Bob         Brown       2.99    
+
+Student with old id: 2000 is increased to new id: 17000
+
+After increase id operation: 
+
+Heap capacity = 5
+
+Heap size = 4
+
+17000   Bob         Brown       2.99    
+15000   Emma        Boman       3.79    
+12000   Jack        Peterson    3.69    
+9000    Harry       Potter      3.49    
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 5
+
+Heap size = 4
+
+17000   Bob         Brown       2.99    
+15000   Emma        Boman       3.79    
+12000   Jack        Peterson    3.69    
+9000    Harry       Potter      3.49    
+
+After extract heap max operation:
+
+Heap capacity = 5
+
+Heap size = 3
+
+15000   Emma        Boman       3.79    
+9000    Harry       Potter      3.49    
+12000   Jack        Peterson    3.69    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Amber Taylor" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Jack Smith" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Reach the capacity limit, double the capacity now.
+
+The new capacity now is 10
+
+Student "Olivia Stone" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "John Smith" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Peter Wang" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Carolin Smith" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 7
+
+16000   Carolin     Smith       3.75    
+11000   Jack        Smith       3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+9000    Harry       Potter      3.49    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Bob Taylor" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 8
+
+19000   Bob         Taylor      3.45    
+16000   Carolin     Smith       3.75    
+15000   Emma        Boman       3.79    
+11000   Jack        Smith       3.49    
+9000    Harry       Potter      3.49    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+8000    Amber       Taylor      3.36    
+
+What action would you like to perform?
+
+The maximum heap node is:
+19000   Bob         Taylor      3.45    
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 8
+
+19000   Bob         Taylor      3.45    
+16000   Carolin     Smith       3.75    
+15000   Emma        Boman       3.79    
+11000   Jack        Smith       3.49    
+9000    Harry       Potter      3.49    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+8000    Amber       Taylor      3.36    
+
+After extract heap max operation:
+
+Heap capacity = 10
+
+Heap size = 7
+
+16000   Carolin     Smith       3.75    
+11000   Jack        Smith       3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+9000    Harry       Potter      3.49    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Emma Johnson" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Shirley Smith" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Mia Martin" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Mia Martin" is NOT added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 9
+
+16000   Carolin     Smith       3.75    
+11000   Jack        Smith       3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+9000    Harry       Potter      3.49    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Henry Lee" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Lucas Perez" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Reach the capacity limit, double the capacity now.
+
+The new capacity now is 20
+
+Student "Catelyn Smith" is added
+
+What action would you like to perform?
+
+Heap capacity = 20
+
+Heap size = 11
+
+23000   Henry       Lee         3.29    
+17000   Catelyn     Smith       3.75    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "James Moore" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Liam Thomas" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Apple Johnson" is NOT added
+
+What action would you like to perform?
+
+Heap capacity = 20
+
+Heap size = 13
+
+23000   Henry       Lee         3.29    
+17000   Catelyn     Smith       3.75    
+21000   Liam        Thomas      3.49    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+15000   Emma        Boman       3.79    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+3000    Olivia      Stone       3.29    
+13000   James       Moore       3.45    
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 20
+
+Heap size = 13
+
+23000   Henry       Lee         3.29    
+17000   Catelyn     Smith       3.75    
+21000   Liam        Thomas      3.49    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+15000   Emma        Boman       3.79    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+3000    Olivia      Stone       3.29    
+13000   James       Moore       3.45    
+
+After extract heap max operation:
+
+Heap capacity = 20
+
+Heap size = 12
+
+21000   Liam        Thomas      3.49    
+17000   Catelyn     Smith       3.75    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Heap capacity = 20
+
+Heap size = 12
+
+21000   Liam        Thomas      3.49    
+17000   Catelyn     Smith       3.75    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The old ID you try to increase does not exist
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The new ID you entered already exist, increase ID operation failed
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 20
+
+Heap size = 12
+
+21000   Liam        Thomas      3.49    
+17000   Catelyn     Smith       3.75    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+16000   Carolin     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+11000   Jack        Smith       3.49    
+3000    Olivia      Stone       3.29    
+
+Student with old id: 11000 is increased to new id: 23000
+
+After increase id operation: 
+
+Heap capacity = 20
+
+Heap size = 12
+
+23000   Jack        Smith       3.49    
+21000   Liam        Thomas      3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+17000   Catelyn     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Bob Brown" is NOT added
+
+What action would you like to perform?
+
+Heap capacity = 20
+
+Heap size = 12
+
+23000   Jack        Smith       3.49    
+21000   Liam        Thomas      3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+17000   Catelyn     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 20
+
+Heap size = 12
+
+23000   Jack        Smith       3.49    
+21000   Liam        Thomas      3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+17000   Catelyn     Smith       3.75    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+9000    Harry       Potter      3.49    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+
+Student with old id: 9000 is increased to new id: 26000
+
+After increase id operation: 
+
+Heap capacity = 20
+
+Heap size = 12
+
+26000   Harry       Potter      3.49    
+23000   Jack        Smith       3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+21000   Liam        Thomas      3.49    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+17000   Catelyn     Smith       3.75    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Heap capacity = 20
+
+Heap size = 12
+
+26000   Harry       Potter      3.49    
+23000   Jack        Smith       3.49    
+15000   Emma        Boman       3.79    
+8000    Amber       Taylor      3.36    
+21000   Liam        Thomas      3.49    
+13000   James       Moore       3.45    
+12000   Jack        Peterson    3.69    
+4000    Emma        Johnson     3.65    
+2000    Shirley     Smith       3.91    
+17000   Catelyn     Smith       3.75    
+16000   Carolin     Smith       3.75    
+3000    Olivia      Stone       3.29    
+
+What action would you like to perform?
+
+Heap sort. Students will be sorted in increasing order of their IDs
+2000    Shirley     Smith       3.91    
+3000    Olivia      Stone       3.29    
+4000    Emma        Johnson     3.65    
+8000    Amber       Taylor      3.36    
+12000   Jack        Peterson    3.69    
+13000   James       Moore       3.45    
+15000   Emma        Boman       3.79    
+16000   Carolin     Smith       3.75    
+17000   Catelyn     Smith       3.75    
+21000   Liam        Thomas      3.49    
+23000   Jack        Smith       3.49    
+26000   Harry       Potter      3.49    
+
+What action would you like to perform?
+
+The number of deleted Students is: 0

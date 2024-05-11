@@ -1,0 +1,30 @@
+Enter the size of the hash table: 
+Enter number of commands: 
+The ideal load factor is: 3.00
+My hash table real load factor is: 5.00
+My hash table performance ratio is: 1.67
+
+HashTable[0], size = 3
+Richard     Brown         216345      3.00
+Snow        White         123456      3.00
+Mary        Johnson       126793      3.00
+
+HashTable[1], size = 4
+James       Miller        216465      3.00
+Mary        Smith         123489      3.00
+Mickey      Mouse         234567      3.00
+Joe         Dow           321765      3.00
+
+HashTable[2], size = 2
+Mickey      Mouse         123011      3.00
+John        Smith         218976      3.00
+
+HashTable[3], size = 1
+John        Miller        217332      3.00
+
+HashTable[4], size = 5
+Linda       Smith         341602      3.00
+John        Brown         175432      3.00
+James       Smith         321011      3.00
+Donald      Duck          654321      3.00
+John        Smith         100789      3.00

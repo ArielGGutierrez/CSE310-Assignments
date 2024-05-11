@@ -1,0 +1,57 @@
+
+Command: tree_insert
+291001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+471444  Aidan       Morgan      3.14      
+
+Command: tree_insert
+579614  Tamara      Garrido     3.94      
+
+Command: tree_insert
+754880  Aron        Liu         3.48      
+
+Command: tree_insert
+123456  Walter      Brown       3.66      
+
+Command: tree_insert
+356533  Diego       Roberts     2.10      
+
+Command: tree_insert
+625921  Qian        Shaffer     3.56      
+
+Command: tree_insert
+891001  Ryanne      Mccord      3.55      
+
+Command: tree_inorder
+123456  Walter      Brown       3.66          RED
+291001  Ryanne      Mccord      3.55        BLACK
+356533  Diego       Roberts     2.10          RED
+471444  Aidan       Morgan      3.14        BLACK
+579614  Tamara      Garrido     3.94        BLACK
+625921  Qian        Shaffer     3.56          RED
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55          RED
+
+Command: tree_preorder
+471444  Aidan       Morgan      3.14        BLACK
+291001  Ryanne      Mccord      3.55        BLACK
+123456  Walter      Brown       3.66          RED
+356533  Diego       Roberts     2.10          RED
+625921  Qian        Shaffer     3.56          RED
+579614  Tamara      Garrido     3.94        BLACK
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55          RED
+
+Command: tree_postorder
+123456  Walter      Brown       3.66          RED
+356533  Diego       Roberts     2.10          RED
+291001  Ryanne      Mccord      3.55        BLACK
+579614  Tamara      Garrido     3.94        BLACK
+891001  Ryanne      Mccord      3.55          RED
+754880  Aron        Liu         3.48        BLACK
+625921  Qian        Shaffer     3.56          RED
+471444  Aidan       Morgan      3.14        BLACK
+
+Command: quit
+The number of nodes deleted: 8

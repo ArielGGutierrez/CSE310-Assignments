@@ -1,0 +1,122 @@
+Choice		Action
+------		------
+C		Create a heap
+D		Delete the heap
+E		Extract max node
+F		Find a student by ID
+I		Insert a student
+K		Increase the ID
+M		Get the max node
+P		Print the heap
+S		Heap Sort
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the heap capacity: 
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "John Smith" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Mary Johnson" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 2
+
+4000    John        Smith       3.32    
+1000    Mary        Johnson     2.99    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Richard Brown" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Joe Fisher" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 4
+
+4000    John        Smith       3.32    
+2000    Joe         Fisher      3.45    
+3000    Richard     Brown       3.49    
+1000    Mary        Johnson     2.99    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Olivia Davis" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Harley Brown" is added
+
+What action would you like to perform?
+
+Heap capacity = 10
+
+Heap size = 6
+
+16000   Olivia      Davis       3.29    
+4000    John        Smith       3.32    
+9000    Harley      Brown       2.99    
+1000    Mary        Johnson     2.99    
+2000    Joe         Fisher      3.45    
+3000    Richard     Brown       3.49    
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 5000 is NOT found
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 1000 is found
+
+What action would you like to perform?
+
+Enter the student ID you want to search: 
+Student with id: 16000 is found
+
+What action would you like to perform?
+
+The maximum heap node is:
+16000   Olivia      Davis       3.29    
+
+What action would you like to perform?
+
+The number of deleted Students is: 6

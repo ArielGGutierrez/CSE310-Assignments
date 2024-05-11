@@ -1,0 +1,37 @@
+Enter source city name: 
+
+Print the graph before Dijkstra algorithm
+
+Heap size = 12
+
+City Name      d Value     PI             Arrival City List
+Denver         30000.00    No Parent      Chicago(620.78),Dallas(475.62),Salt Lake(350.50),Santa Fe(180.24),
+Phoenix        30000.00    No Parent      Seattle(470.67),
+Santa Fe       30000.00    No Parent      Austin(572.18),Phoenix(275.32),
+Austin         30000.00    No Parent      Dallas(350.24),
+Dallas         30000.00    No Parent      Atlanta(780.50),Austin(250.18),Denver(550.60),Miami(560.89),
+Atlanta        30000.00    No Parent      Dallas(860.28),Miami(320.61),Washington(420.24),
+Chicago        30000.00    No Parent      Denver(570.19),
+Washington     30000.00    No Parent      New York(250.37),
+Seattle        30000.00    No Parent      New York(1320.52),Salt Lake(325.45),
+Salt Lake      30000.00    No Parent      Phoenix(450.18),Santa Fe(379.20),
+New York       30000.00    No Parent      Chicago(320.50),
+Miami          30000.00    No Parent      Atlanta(457.60),
+
+Print the Dijkstra algorithm running result
+
+Source City: Seattle
+
+Arrival City  Shortest Dist. Shortest Path  
+Seattle        0.00           Seattle
+Salt Lake      325.45         Seattle->Salt Lake
+Santa Fe       704.65         Seattle->Salt Lake->Santa Fe
+Phoenix        775.63         Seattle->Salt Lake->Phoenix
+Austin         1276.83        Seattle->Salt Lake->Santa Fe->Austin
+New York       1320.52        Seattle->New York
+Dallas         1627.07        Seattle->Salt Lake->Santa Fe->Austin->Dallas
+Chicago        1641.02        Seattle->New York->Chicago
+Denver         2177.67        Seattle->Salt Lake->Santa Fe->Austin->Dallas->Denver
+Miami          2187.96        Seattle->Salt Lake->Santa Fe->Austin->Dallas->Miami
+Atlanta        2407.57        Seattle->Salt Lake->Santa Fe->Austin->Dallas->Atlanta
+Washington     2827.81        Seattle->Salt Lake->Santa Fe->Austin->Dallas->Atlanta->Washington

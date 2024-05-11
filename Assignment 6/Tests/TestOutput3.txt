@@ -1,0 +1,83 @@
+
+Command: tree_insert
+754880  Aron        Liu         3.48      
+
+Command: tree_insert
+356533  Diego       Roberts     2.10      
+
+Command: tree_insert
+891001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+291001  Ryanne      Mccord      3.55      
+
+Command: tree_insert
+471444  Aidan       Morgan      3.14      
+
+Command: tree_insert
+579614  Tamara      Garrido     3.94      
+
+Command: tree_insert
+123456  Walter      Brown       3.66      
+
+Command: tree_insert
+625921  Qian        Shaffer     3.56      
+
+Command: tree_preorder
+754880  Aron        Liu         3.48        BLACK
+356533  Diego       Roberts     2.10          RED
+291001  Ryanne      Mccord      3.55        BLACK
+123456  Walter      Brown       3.66          RED
+579614  Tamara      Garrido     3.94        BLACK
+471444  Aidan       Morgan      3.14          RED
+625921  Qian        Shaffer     3.56          RED
+891001  Ryanne      Mccord      3.55        BLACK
+
+Command: tree_inorder
+123456  Walter      Brown       3.66          RED
+291001  Ryanne      Mccord      3.55        BLACK
+356533  Diego       Roberts     2.10          RED
+471444  Aidan       Morgan      3.14          RED
+579614  Tamara      Garrido     3.94        BLACK
+625921  Qian        Shaffer     3.56          RED
+754880  Aron        Liu         3.48        BLACK
+891001  Ryanne      Mccord      3.55        BLACK
+
+Command: tree_postorder
+123456  Walter      Brown       3.66          RED
+291001  Ryanne      Mccord      3.55        BLACK
+471444  Aidan       Morgan      3.14          RED
+625921  Qian        Shaffer     3.56          RED
+579614  Tamara      Garrido     3.94        BLACK
+356533  Diego       Roberts     2.10          RED
+891001  Ryanne      Mccord      3.55        BLACK
+754880  Aron        Liu         3.48        BLACK
+
+Command: tree_predecessor
+123456  Walter      Brown        is FOUND.
+Its Predecessor does NOT EXIST
+
+Command: tree_predecessor
+471444  Aidan       Morgan       is FOUND.
+Its Predecessor is: 
+356533  Diego       Roberts     2.10          RED
+
+Command: tree_successor
+356533  Diego       Roberts      is FOUND.
+Its Successor is: 
+471444  Aidan       Morgan      3.14          RED
+
+Command: tree_successor
+891001  Ryanne      Mccord       is FOUND.
+Its Successor does NOT EXIST
+
+Command: tree_minimum
+The MINIMUM is:
+123456  Walter      Brown       3.66          RED
+
+Command: tree_maximum
+The MAXIMUM is:
+891001  Ryanne      Mccord      3.55        BLACK
+
+Command: quit
+The number of nodes deleted: 8

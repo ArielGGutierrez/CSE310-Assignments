@@ -1,0 +1,10 @@
+8
+Buffalo,Washington(401.54),Columbus(3025.19),Albany(293.76),
+Albany,Boston(364.72),
+Boston,New York(214.5),
+New York,Washington(225.70),
+Columbus,Washington(402.80),Seattle(2418.50),
+San Diego,Columbus(2224.30),
+Seattle,San Diego(1255.34),Columbus(2420.30),Buffalo(2599.0),
+Washington,New York(225.70),San Diego(2625.30),
+Seattle

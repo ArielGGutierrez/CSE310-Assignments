@@ -1,0 +1,287 @@
+Choice		Action
+------		------
+C		Create a heap
+D		Delete the heap
+E		Extract max node
+F		Find a student by ID
+I		Insert a student
+K		Increase the ID
+M		Get the max node
+P		Print the heap
+S		Heap Sort
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the heap capacity: 
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Bob Brown" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Emma Jones" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Jack Peterson" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Eva Lopez" is added
+
+What action would you like to perform?
+
+Heap capacity = 3
+
+Heap size = 3
+
+9000    Eva         Lopez       3.19    
+2000    Bob         Brown       2.99    
+4000    Emma        Jones       3.89    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Reach the capacity limit, double the capacity now.
+
+The new capacity now is 6
+
+Student "Olivia Koh" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Joe Dow" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Helen Thomas" is added
+
+What action would you like to perform?
+
+Heap capacity = 6
+
+Heap size = 6
+
+16000   Helen       Thomas      3.75    
+9000    Eva         Lopez       3.19    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+3000    Olivia      Koh         3.29    
+4000    Emma        Jones       3.89    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Reach the capacity limit, double the capacity now.
+
+The new capacity now is 12
+
+Student "Ann Taylor" is added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Duplicated Student. Not added
+
+Student "Coke Wilson" is NOT added
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Apple Jones" is added
+
+What action would you like to perform?
+
+Heap capacity = 12
+
+Heap size = 8
+
+16000   Helen       Thomas      3.75    
+9000    Eva         Lopez       3.19    
+13000   Ann         Taylor      3.45    
+8000    Apple       Jones       2.99    
+3000    Olivia      Koh         3.29    
+4000    Emma        Jones       3.89    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+
+What action would you like to perform?
+
+Before extract heap max operation:
+
+Heap capacity = 12
+
+Heap size = 8
+
+16000   Helen       Thomas      3.75    
+9000    Eva         Lopez       3.19    
+13000   Ann         Taylor      3.45    
+8000    Apple       Jones       2.99    
+3000    Olivia      Koh         3.29    
+4000    Emma        Jones       3.89    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+
+After extract heap max operation:
+
+Heap capacity = 12
+
+Heap size = 7
+
+13000   Ann         Taylor      3.45    
+9000    Eva         Lopez       3.19    
+11000   Joe         Dow         2.97    
+8000    Apple       Jones       2.99    
+3000    Olivia      Koh         3.29    
+4000    Emma        Jones       3.89    
+2000    Bob         Brown       2.99    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The old ID you try to increase does not exist
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+The new ID you entered already exist, increase ID operation failed
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 12
+
+Heap size = 7
+
+13000   Ann         Taylor      3.45    
+9000    Eva         Lopez       3.19    
+11000   Joe         Dow         2.97    
+8000    Apple       Jones       2.99    
+3000    Olivia      Koh         3.29    
+4000    Emma        Jones       3.89    
+2000    Bob         Brown       2.99    
+
+Student with old id: 4000 is increased to new id: 23000
+
+After increase id operation: 
+
+Heap capacity = 12
+
+Heap size = 7
+
+23000   Emma        Jones       3.89    
+9000    Eva         Lopez       3.19    
+13000   Ann         Taylor      3.45    
+8000    Apple       Jones       2.99    
+3000    Olivia      Koh         3.29    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+
+What action would you like to perform?
+
+Enter the student first name: 
+Enter the student last name: 
+Enter the student id: 
+Enter the student gpa: 
+Student "Noah Gacia" is added
+
+What action would you like to perform?
+
+Heap capacity = 12
+
+Heap size = 8
+
+23000   Emma        Jones       3.89    
+12000   Noah        Gacia       3.19    
+13000   Ann         Taylor      3.45    
+9000    Eva         Lopez       3.19    
+3000    Olivia      Koh         3.29    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+8000    Apple       Jones       2.99    
+
+What action would you like to perform?
+
+Enter the old student id you want to increase: 
+Enter the new id: 
+Before increase ID operation:
+
+Heap capacity = 12
+
+Heap size = 8
+
+23000   Emma        Jones       3.89    
+12000   Noah        Gacia       3.19    
+13000   Ann         Taylor      3.45    
+9000    Eva         Lopez       3.19    
+3000    Olivia      Koh         3.29    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+8000    Apple       Jones       2.99    
+
+Student with old id: 9000 is increased to new id: 26000
+
+After increase id operation: 
+
+Heap capacity = 12
+
+Heap size = 8
+
+26000   Eva         Lopez       3.19    
+23000   Emma        Jones       3.89    
+13000   Ann         Taylor      3.45    
+12000   Noah        Gacia       3.19    
+3000    Olivia      Koh         3.29    
+11000   Joe         Dow         2.97    
+2000    Bob         Brown       2.99    
+8000    Apple       Jones       2.99    
+
+What action would you like to perform?
+
+The number of deleted Students is: 8
